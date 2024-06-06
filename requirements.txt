@@ -246,5 +246,7 @@ widgetsnbextension==4.0.10
 wrapt==1.16.0
 xattr==1.1.0
 yarl==1.9.4
-yfinance==0.2.40
+streamlit==1.35.0
+pandas
+yfinance
 zipp==3.18.1
