@@ -65,7 +65,7 @@ def calculate_dao(data):
     return data
 
 # Streamlit app
-st.title('Share Analysis Software')
+st.title('Share Analysis')
 
 # Sidebar for user inputs
 st.sidebar.header('Filter Options')
